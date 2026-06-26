@@ -1,0 +1,5 @@
+node_modules/
+electromart/frontend/node_modules/
+electromart/backend/target/
+.env
+.DS_Store
